@@ -87,43 +87,7 @@ Weather-EDA-Project/
 └── requirements.txt     # Required libraries
 ```
 
----
-
-# 🚀 Getting Started
-
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Weather-EDA-Project.git
-```
-
----
-
-## 2️⃣ Navigate to Project Directory
-
-```bash
-cd Weather-EDA-Project
-```
-
----
-
-## 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 4️⃣ Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
-# 📷 Sample Visualizations
+#  Sample Visualizations
 
 - Temperature Distribution Plot
 - Correlation Heatmap
@@ -131,11 +95,10 @@ jupyter notebook
 - Weather Summary Charts
 - Wind Speed Trends
 
-(Add screenshots in the `images/` folder and link them here later.)
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -146,7 +109,7 @@ jupyter notebook
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Implement Machine Learning Models
 - Build Weather Prediction System
@@ -156,7 +119,7 @@ jupyter notebook
 
 ---
 
-# 📚 Learning Outcomes
+#  Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 - Data preprocessing techniques
@@ -169,8 +132,7 @@ Through this project, I strengthened my understanding of:
 # 👩‍💻 Author
 
 ## Shraddha Bisht
-Aspiring Data Scientist & Data Analytics Learner
+ Data Scientist
 
 ---
 
-# ⭐ If you found this project useful, consider giving it a star on GitHub!
